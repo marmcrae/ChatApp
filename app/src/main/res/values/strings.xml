@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ChatApp</string>
+    <string name="back4app_server_url">https://parseapi.back4app.com/</string>
+    <string name="action_logout">Logout</string>
+    <string name="title_activity_create_account">CreateAccount</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="action_settings">Settings</string>
+    <string name="has_an_account">Already have an account? Click here to sign in.</string>
+    <string name="create_act_login">Don\'t have an account? Create one here.</string>
+</resources>

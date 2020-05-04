@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <ImageView
+        android:id="@+id/ProfileLeft"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="30dp" />
+
+    <TextView
+        android:id="@+id/tvBody"
+        android:layout_width="330dp"
+        android:layout_height="wrap_content"
+        android:layout_marginRight="64dp"
+        android:background="@drawable/et_bg"
+        android:padding="20dp"
+        android:text=""
+        android:textSize="18sp" />
+
+    <ImageView
+        android:id="@+id/ProfileRight"
+        android:layout_width="25dp"
+        android:layout_height="25dp"
+        android:layout_marginLeft="275dp" />
+
+</LinearLayout>
